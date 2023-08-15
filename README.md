@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arifin Habibi</h1>
 <h3 align="center">A website developer from Indonesia</h3>
 
-<img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" alt="coding" width"250" />
+<img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" alt="coding" width="250" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifinhabibi&label=Profile%20views&color=0e75b6&style=flat" alt="arifinhabibi" /> </p>
 
