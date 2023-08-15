@@ -1,3 +1,5 @@
+![logo](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)
+
 <h1 align="center">Hi 👋, I'm Muhammad Arifin Habibi</h1>
 <h3 align="center">A website developer from Indonesia</h3>
 
