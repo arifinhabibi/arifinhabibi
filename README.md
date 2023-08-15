@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifinhabibi&label=Profile%20views&color=0e75b6&style=flat" alt="arifinhabibi" /> </p>
 
-- 🌱 I’m currently learning **flutter for mobile development**
+- 🌱 I’m currently learning **flutter for expanse mobile development**
 
 - 💬 Ask me about **react, vue, tailwind, laravel**
 
