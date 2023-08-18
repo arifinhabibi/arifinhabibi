@@ -1,6 +1,4 @@
-<center>
-![logo](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?size=626&ext=jpg&ga=GA1.2.306904293.1692341218&semt=ais)
-</center>
+![logo](https://www.asmiglobalsoftwares.com/assets/img/Web-development.jpg)
 
 <h1 align="center">Hi 👋, I'm Muhammad Arifin Habibi</h1>
 <h3 align="center">A website developer from Indonesia</h3>
