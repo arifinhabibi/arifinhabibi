@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arifinhabibi76@gmail.com**
 
-- ⚡ Fun fact **I happy and fun**
+- ⚡ Fun fact **on error program sometimes i get a frustation but i always back to code and never give up of all challenges program**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
