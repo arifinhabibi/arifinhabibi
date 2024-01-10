@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **flutter** for more expantion mobile development
 
-- 💬 Ask me about **react, vue, tailwind, laravel**
+- 💬 Ask me about arround website development skill
 
 - 📫 How to reach me **arifinhabibi94@gmail.com**
 
