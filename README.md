@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **flutter** for more knowledge about mobile development
 
-- 💬 Ask me arrounded my expert in website development skill
+- 💬 Ask me arrounded about website development skill
 
 - 📫 How to reach me **arifinhabibi94@gmail.com**
 
