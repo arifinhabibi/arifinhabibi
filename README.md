@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifinhabibi&label=Profile%20views&color=0e75b6&style=flat" alt="arifinhabibi" /> </p>
 
-- 🌱 I’m currently learning **flutter** for more knowledge mobile development
+- 🌱 I’m currently learning **flutter** for more knowledge about mobile development
 
-- 💬 Ask me about arround website development skill
+- 💬 Ask me arrounded my expert in website development skill
 
 - 📫 How to reach me **arifinhabibi94@gmail.com**
 
-- ⚡ Fun fact **if error program sometimes i get a frustation but i always back to code and never give up all of challenges program**
+- ⚡ Fun fact **if error code sometimes i'm feel frustation but i always back to code and never give upffor all of challenging program**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
